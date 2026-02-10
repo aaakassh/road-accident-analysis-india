@@ -20,7 +20,3 @@ The objective is to transform raw accident data into clear, decision-ready insig
 ### Purpose of the Project
 
 To demonstrate practical **data analytics, visualization, and business insight generation** using real-world style data, while building a strong foundation for entry-level Data Analyst roles.
-
----
-
-⭐ If you found this useful, feel free to explore the dashboard and share feedback.
